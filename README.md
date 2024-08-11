@@ -1,2 +1,2 @@
 # Projects
-Here I'm publishing some Data Science and Data Analytics projects I'm currently developing, the idea is to share my technical abilities and how I approach any issue, giving the solutions I think it's the best
+Here, I share Data Science and Analytics projects that I’m currently developing. These projects demonstrate my technical skills and problem-solving approach, showcasing the solutions I believe are most effective.
